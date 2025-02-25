@@ -1,5 +1,5 @@
 # AICTE_CYBER_INTERNSHIP
-# Image Steganography Using Python
+# Secure data hiding in images using Steganography
 
 ## 📌 Overview
 This project is a **Python-based Image Steganography** application that allows users to securely hide and retrieve messages within images. The encryption process ensures that only users with the correct passcode can decrypt and view the hidden message.
@@ -46,10 +46,6 @@ python steganography.py
    - Load the encrypted image.
    - Enter the passcode to retrieve the hidden message.
 
-## 📸 Screenshots
-| Encryption | Decryption |
-|------------|-------------|
-| ![Encryption GUI](screenshots/encryption.png) | ![Decryption GUI](screenshots/decryption.png) |
 
 ## 🔮 Future Enhancements
 - Support for JPEG and BMP image formats.
