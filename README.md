@@ -60,4 +60,4 @@ This project is licensed under the **MIT License**.
 Feel free to fork the repository and submit pull requests for improvements.
 
 ## 📬 Contact
-For any queries or collaboration, reach out via **your-email@example.com** or visit [GitHub Profile](https://github.com/yourusername).
+For any queries or collaboration, reach out via  [GitHub Profile](https://github.com/YamalSharma).
