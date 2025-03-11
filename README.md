@@ -20,10 +20,6 @@ This project is a **Python-based Image Steganography** application that allows u
 
 ## 🚀 How to Run the Project
 ### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/image-steganography.git
-cd image-steganography
-```
 
 ### 2️⃣ Install Dependencies
 Ensure you have Python installed, then install required libraries:
